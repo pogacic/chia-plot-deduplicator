@@ -1,0 +1,6 @@
+# Create a new entry for each plot directory for checking.
+# Supply an absolute path.
+
+plot_directories:
+  - 'C:\Users\user1\Documents\chia-plots\folder1'
+  - 'C:\Users\user1\Documents\chia-plots\folder2'
