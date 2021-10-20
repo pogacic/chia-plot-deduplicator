@@ -1,5 +1,4 @@
 import os
-import argparse
 import yaml
 
 GB_CONVERSION = 1024 * 1024 * 1024
